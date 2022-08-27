@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">butterfield3</string>
+
+    <string-array name="items">
+        <item>pizza</item>
+        <item>pasta</item>
+        <item>rolls</item>item>
+        <item>burger</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>10.95</item>
+        <item>11.95</item>
+        <item>9.95</item>
+        <item>8.95</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>different kinds of pizza</item>
+        <item>different kinds of pasta and sauce</item>
+        <item>different kinds of rolls</item>
+        <item>different kinds of burgers</item>
+    </string-array>
+
+</resources>
